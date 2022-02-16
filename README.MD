@@ -36,13 +36,14 @@ How to Create a **Webstorm** File:
 1. In **Webstorm**, choose "File" from the top bar
 2. Choose the type of file you want to create.
 
-How to **Push** a **Commit** to Repository:
+How to **Push** and **Commit** to Repository:
 
 1. Select "VCS" from the top bar
 2. Choose "Git", then "Push"
 3. Add comment in text box about commit
 4. Press "Commit"
 5. The Repository or its changes will now be on **GitHub**
+Alternatively you can press (Ctrl+K) (https://www.jetbrains.com/help)
 
 Git Commands and Terms: 
 
@@ -54,9 +55,9 @@ Git Commands and Terms:
 
 **fetch**: fetch takes from other repositories, including their objects
 
-**Git**: 
+**Git**: an open source distributed version control system (https://www.freecodecamp.org)
 
-**GitHub**:
+**GitHub**: a provider of Internet hosting for software development and version control using **Git** (https://docs.github.com)
 
 **merge**: merge joins multiple isolated **branches** together
 
@@ -69,3 +70,11 @@ Git Commands and Terms:
 **remote**: remote manages a set of **repositories**, by itself it will list the existing remotes
 
 **repository**: a .git/ folder inside a project, tracking all history and changes over time
+
+Sources:
+
+https://www.freecodecamp.org
+
+https://www.jetbrains.com/help
+
+https://docs.github.com
