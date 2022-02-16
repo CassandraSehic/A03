@@ -40,6 +40,32 @@ How to **Push** a **Commit** to Repository:
 
 1. Select "VCS" from the top bar
 2. Choose "Git", then "Push"
-3. Add comment in text box about commit.
+3. Add comment in text box about commit
 4. Press "Commit"
 5. The Repository or its changes will now be on **GitHub**
+
+Git Commands and Terms: 
+
+**branch**: branch references a **commit**, it shows you where particular changes were made in reference to others
+
+**clone**: clone duplicates a repository into a new directory
+
+**commit**: commit updates changes made to the current index with a descriptive message of the changes in the repository
+
+**fetch**: fetch takes from other repositories, including their objects
+
+**Git**: 
+
+**GitHub**:
+
+**merge**: merge joins multiple isolated **branches** together
+
+**merge conflict**: conflicts that arise from the **merge** command with different edits cannot be combined
+
+**push**: push updates remote ref and associated objects
+
+**pull**: pull is the same as **fetch** but it also integrates the **repository** or **branch** its pulling from
+
+**remote**: remote manages a set of **repositories**, by itself it will list the existing remotes
+
+**repository**: a .git/ folder inside a project, tracking all history and changes over time
